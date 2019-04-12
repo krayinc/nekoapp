@@ -23,10 +23,10 @@
 
 
 @issei
-im hungry.
+im hungry too.
 
 @壱成
-「昨日から何も食べてないもんなぁ……」
+
 
 
 
